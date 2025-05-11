@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Patricia <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola 👋, Soy Patt <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center"> Apasionada de Phyton (Jr. Data Scientist) </h3>
 
 - 🔭 Recien egresada de la profesión Científico de Datos 
