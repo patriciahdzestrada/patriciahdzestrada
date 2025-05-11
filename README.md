@@ -5,7 +5,7 @@
 
 • 🚀 Soy **Científico de Datos**
 
-• 📊 Estudié un grado de **Químicas** y una Maestría en **Ciencias Químicas**
+• 📊 Estudié la licenciatura en **Química** y una Maestría en **Ciencias Químicas, UNAM**
 
 • 📖 Continuo actualizandome en **Python, SQL y PowerBI**
 
